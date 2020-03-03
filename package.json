@@ -1,6 +1,6 @@
 {
-  "name": "service-systemd",
-  "version": "3.5.1",
+  "name": "quick_systemd",
+  "version": "1.0.2",
   "description": "Setup node.js app as systemd service",
   "files": [
     "bin/*",
@@ -8,7 +8,7 @@
     "index.js"
   ],
   "bin": {
-    "service-systemd": "bin/main.js"
+    "quick-systemd": "bin/main.js"
   },
   "keywords": [
     "systemd",
@@ -31,9 +31,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/braceslab/service-systemd.git"
+    "url": "git+https://github.com/yhnu/systemd.git"
   },
-  "author": "Simone Sanfratello <simone@braceslab.com>",
+  "author": "yhnu <immb@qq.com>",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
