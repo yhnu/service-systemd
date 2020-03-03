@@ -1,6 +1,6 @@
 {
   "name": "quick_systemd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Setup node.js app as systemd service",
   "files": [
     "bin/*",
