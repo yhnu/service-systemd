@@ -1,0 +1,9 @@
+{
+  "name": "atest",
+  "description": "an amazing service gitea",
+  "cwd": "/opt",
+  "user": "root",
+  "group": "root",
+  "app": "/opt/gitea web",
+  "logrotate": true
+}
